@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(56, 31, 97);
+    background-attachment: fixed;
+    background-repeat: repeat-y;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    background-image:  url("https://cdn.pixabay.com/photo/2016/11/29/05/45/astronomy-1867616__340.jpg");
+}
+
+.navbar {
+    background-color: rgb(91, 78, 150); 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar a {
+    display: inline-block;
+    padding-right:50px;
+    padding-bottom:5px;
+    color:white;
+    font-size: 20px;
+}
+
+.intro {
+    height: 155px;
+      width: 50%;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+.intropic {
+    display: block;
+    margin-left: 20px;
+}
+
+a {
+    color: rgb(67, 117, 182);
+}
+
+.corps {
+    margin: 20px;
+}
+
+.sun {
+    display: block;
+    height: 50;
+    width: 50%;
+    margin-bottom: 5px;
+}
+
+.planets {
+    display: block;
+    height: 50;
+    width: 50%;
+    margin-bottom: 5px;
+}
+
+.moons {
+    margin-bottom:10px;
+    display: block;
+    height: 50;
+    width: 50%;
+}
+
+.sitemap {
+    background-image:  url("https://cdn.pixabay.com/photo/2016/11/29/05/45/astronomy-1867616__340.jpg");
+    position: relative;
+    top: 50px;
+}
+
+.relative {
+      position: relative;
+    top: 50px;
+}

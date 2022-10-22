@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(160, 62, 5);
+    background-attachment: fixed;
+    background-repeat: repeat-y;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    background-image:  url("Sun\ background.jpg");
+    padding: 3px;
+}
+
+.navbar {
+    background-color: rgb(231, 160, 67); 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar a {
+    display: inline-block;
+    padding-right:50px;
+    padding-bottom:5px;
+    color:white;
+    font-size: 20px;
+}
+
+.introtext {
+    margin: 5px;
+}
+
+p {
+    height: 155px;
+      width: 50%;
+    
+}
+
+p img {
+    float: right;
+    padding: 30px;
+}
+
+.form {
+    position: relative;
+    top: 200px;
+}
+
+.SaD {
+    position: relative;
+    top: 100px;
+}
+
+.SaD img {
+    position: relative;
+    top: -90px;
+}
+
+.orbit {
+    position: relative;
+    top: 20px;
+}
+
+.orbit img {
+    position: relative;
+    top: -90px;
+}
+
+.struc {
+    position: relative;
+    top: -50px;
+}
+
+.sitemap {
+    background-image:  url("Sun\ background.jpg");
+    padding: 5px;
+    position: relative;
+    top: -100px;
+    margin-bottom: -20px;
+}

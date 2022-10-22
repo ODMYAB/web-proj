@@ -1,0 +1,147 @@
+
+            body{
+                background-color: rgb(233, 198, 132);
+                background-attachment: fixed;
+                background-repeat: repeat-y;
+                color: rgb(0, 0, 0);
+                font-family: Arial, sans-serif;
+            }
+
+            h1{
+                background-image:  url("Blue\ Themed\ Space.jpg");
+                padding: 3px;
+                color: rgb(255, 255, 255);
+            }
+
+            .navbar {
+                background-color: rgb(3, 41, 85); 
+                list-style-type: none;
+                text-align: center;
+                margin: 0;
+                padding: 0;
+            }
+        
+            .navbar a {
+                display: inline-block;
+                padding-right:50px;
+                padding-bottom:5px;
+                color:white;
+                font-size: 20px;
+            }
+
+            .introtext {
+                margin: 5px;
+            }
+        
+            p {
+        	    height: 155px;
+  			    width: 50%;
+            }
+
+            p img {
+                float: right;
+                padding: 30px;
+            }
+
+            .terpl {
+                position: relative;
+                top: 100px;
+            }
+
+            .mercury {
+                position: relative;
+                top: 50px;
+            }
+
+            .mercury img {
+                position: relative;
+                top: -90px;
+            }
+
+            .venus {
+                position: relative;
+                top: -10px;
+            }
+
+            .venus img {
+                position: relative;
+                top: -60px;
+            }
+
+            .earth {
+                position: relative;
+                top: -60px;
+            }
+
+            .earth img {
+                position: relative;
+                top: -80px;
+            }
+
+            .mars {
+                position: relative;
+                top: -120px;
+            }
+
+            .mars img {
+                position: relative;
+                top: -80px;
+            }
+
+            .gipl {
+                position: relative;
+                top: -200px;
+            }
+
+            .jupiter {
+                position: relative;
+                top: -250px;
+            }
+
+            .jupiter img {
+                position: relative;
+                top: -50px;
+            }
+
+            .saturn {
+                position: relative;
+                top: -300px;
+            }
+
+            .saturn img {
+                position: relative;
+                top: -40px;
+            }
+
+            .uranus {
+                position: relative;
+                top: -340px;
+            }
+
+            .uranus img {
+                position: relative;
+                top: -50px;
+            }
+
+            .neptune {
+                position: relative;
+                top: -380px;
+            }
+
+            .neptune img{
+                position: relative;
+                top: -90px;
+            }
+
+            li {
+                margin-top: 20px;
+            }
+
+            .sitemap {
+        	    background-image:  url("Blue\ Themed\ Space.jpg");
+                padding: 5px;
+                position: relative;
+                top: -450px;
+                margin-bottom: -20px;
+                margin-left: 10px;
+            }
